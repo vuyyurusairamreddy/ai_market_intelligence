@@ -1,0 +1,352 @@
+{
+  "metadata": {
+    "generated_at": "2025-10-04T10:54:15.893333",
+    "total_campaigns": 50,
+    "total_channels": 4,
+    "creative_outputs_generated": 3
+  },
+  "funnel_insights": {
+    "data_summary": {
+      "total_campaigns": 50,
+      "total_spend": 53564.64,
+      "total_revenue": 232276.19,
+      "overall_roas": 4.3363717183574835,
+      "avg_cac": 2.9095462002375982,
+      "channels": 4,
+      "seo_categories": 5
+    },
+    "channel_analysis": {
+      "performance": {
+        "Google Ads": {
+          "Total_Spend": 15749.51,
+          "Total_Revenue": 57040.95,
+          "Total_Impressions": 280542,
+          "Total_Clicks": 35891,
+          "Total_Installs": 8382,
+          "Total_Signups": 6805,
+          "Total_First_Purchases": 5534,
+          "Total_Repeat_Purchases": 2348,
+          "Avg_CAC": 2.85,
+          "Avg_ROAS": 4.8,
+          "Avg_CTR": 0.17,
+          "Avg_Funnel_Efficiency": 0.72,
+          "Campaign_Count": 11,
+          "Overall_Conversion_Rate": 0.0242566175474617,
+          "Channel_ROI": 2.6217602960346063
+        },
+        "Instagram Influencer": {
+          "Total_Spend": 12494.05,
+          "Total_Revenue": 73824.24,
+          "Total_Impressions": 333648,
+          "Total_Clicks": 30563,
+          "Total_Installs": 9313,
+          "Total_Signups": 8440,
+          "Total_First_Purchases": 4648,
+          "Total_Repeat_Purchases": 3277,
+          "Avg_CAC": 2.69,
+          "Avg_ROAS": 10.32,
+          "Avg_CTR": 0.13,
+          "Avg_Funnel_Efficiency": 0.75,
+          "Campaign_Count": 13,
+          "Overall_Conversion_Rate": 0.025296120462283606,
+          "Channel_ROI": 4.908751765840541
+        },
+        "Meta Ads": {
+          "Total_Spend": 8782.57,
+          "Total_Revenue": 49629.65,
+          "Total_Impressions": 215591,
+          "Total_Clicks": 29883,
+          "Total_Installs": 8690,
+          "Total_Signups": 4580,
+          "Total_First_Purchases": 2766,
+          "Total_Repeat_Purchases": 2762,
+          "Avg_CAC": 4.82,
+          "Avg_ROAS": 7.76,
+          "Avg_CTR": 0.18,
+          "Avg_Funnel_Efficiency": 0.8,
+          "Campaign_Count": 10,
+          "Overall_Conversion_Rate": 0.021243929477575595,
+          "Channel_ROI": 4.65092564021693
+        },
+        "Organic Search": {
+          "Total_Spend": 16538.51,
+          "Total_Revenue": 51781.35,
+          "Total_Impressions": 540866,
+          "Total_Clicks": 49223,
+          "Total_Installs": 12958,
+          "Total_Signups": 10224,
+          "Total_First_Purchases": 6287,
+          "Total_Repeat_Purchases": 4551,
+          "Avg_CAC": 1.94,
+          "Avg_ROAS": 4.81,
+          "Avg_CTR": 0.13,
+          "Avg_Funnel_Efficiency": 0.81,
+          "Campaign_Count": 16,
+          "Overall_Conversion_Rate": 0.018903018492565628,
+          "Channel_ROI": 2.1309561744074887
+        }
+      },
+      "best_roas": "Instagram Influencer",
+      "worst_roas": "Google Ads",
+      "best_efficiency": "Organic Search",
+      "lowest_cac": "Organic Search"
+    },
+    "seo_analysis": {
+      "category_performance": {
+        "Astrology Services": {
+          "Avg_Search_Volume": 25647.1,
+          "Avg_Position": 28.97,
+          "Avg_Conversion_Rate": 2.58,
+          "Opportunity_Score": 3533.94,
+          "Total_Revenue": 42667.99,
+          "Campaign_Count": 10,
+          "Growth_Potential": 8.292295812748463
+        },
+        "Fitness Gear": {
+          "Avg_Search_Volume": 28133.8,
+          "Avg_Position": 24.38,
+          "Avg_Conversion_Rate": 2.37,
+          "Opportunity_Score": 10920.67,
+          "Total_Revenue": 28270.03,
+          "Campaign_Count": 10,
+          "Growth_Potential": 25.610451237633193
+        },
+        "Home Decor": {
+          "Avg_Search_Volume": 31495.6,
+          "Avg_Position": 27.0,
+          "Avg_Conversion_Rate": 2.49,
+          "Opportunity_Score": 5112.85,
+          "Total_Revenue": 64638.23,
+          "Campaign_Count": 10,
+          "Growth_Potential": 21.800000000000004
+        },
+        "Skin Care": {
+          "Avg_Search_Volume": 27059.0,
+          "Avg_Position": 26.82,
+          "Avg_Conversion_Rate": 3.46,
+          "Opportunity_Score": 6631.27,
+          "Total_Revenue": 39096.92,
+          "Campaign_Count": 8,
+          "Growth_Potential": 36.28543517189703
+        },
+        "Supplements": {
+          "Avg_Search_Volume": 24811.42,
+          "Avg_Position": 27.9,
+          "Avg_Conversion_Rate": 2.24,
+          "Opportunity_Score": 2836.36,
+          "Total_Revenue": 57603.02,
+          "Campaign_Count": 12,
+          "Growth_Potential": 4.710966611209194
+        }
+      },
+      "high_opportunity_categories": {
+        "Astrology Services": {
+          "monthly_search_volume": 43348.0,
+          "avg_position": 46.6,
+          "conversion_rate": 3.63
+        },
+        "Fitness Gear": {
+          "monthly_search_volume": 35299.0,
+          "avg_position": 38.3,
+          "conversion_rate": 2.98
+        },
+        "Home Decor": {
+          "monthly_search_volume": 42757.0,
+          "avg_position": 41.13,
+          "conversion_rate": 2.67
+        },
+        "Supplements": {
+          "monthly_search_volume": 43956.0,
+          "avg_position": 44.5,
+          "conversion_rate": 3.12
+        }
+      },
+      "top_performing_categories": {
+        "Fitness Gear": {
+          "Avg_Search_Volume": 28133.8,
+          "Avg_Position": 24.38,
+          "Avg_Conversion_Rate": 2.37,
+          "Opportunity_Score": 10920.67,
+          "Total_Revenue": 28270.03,
+          "Campaign_Count": 10,
+          "Growth_Potential": 25.610451237633193
+        },
+        "Skin Care": {
+          "Avg_Search_Volume": 27059.0,
+          "Avg_Position": 26.82,
+          "Avg_Conversion_Rate": 3.46,
+          "Opportunity_Score": 6631.27,
+          "Total_Revenue": 39096.92,
+          "Campaign_Count": 8,
+          "Growth_Potential": 36.28543517189703
+        },
+        "Home Decor": {
+          "Avg_Search_Volume": 31495.6,
+          "Avg_Position": 27.0,
+          "Avg_Conversion_Rate": 2.49,
+          "Opportunity_Score": 5112.85,
+          "Total_Revenue": 64638.23,
+          "Campaign_Count": 10,
+          "Growth_Potential": 21.800000000000004
+        },
+        "Astrology Services": {
+          "Avg_Search_Volume": 25647.1,
+          "Avg_Position": 28.97,
+          "Avg_Conversion_Rate": 2.58,
+          "Opportunity_Score": 3533.94,
+          "Total_Revenue": 42667.99,
+          "Campaign_Count": 10,
+          "Growth_Potential": 8.292295812748463
+        },
+        "Supplements": {
+          "Avg_Search_Volume": 24811.42,
+          "Avg_Position": 27.9,
+          "Avg_Conversion_Rate": 2.24,
+          "Opportunity_Score": 2836.36,
+          "Total_Revenue": 57603.02,
+          "Campaign_Count": 12,
+          "Growth_Potential": 4.710966611209194
+        }
+      }
+    },
+    "growth_patterns": {
+      "high_performing_campaigns": {
+        "count": 2,
+        "avg_roas": 27.088502573948226,
+        "avg_cac": 0.4135827006385489,
+        "top_channels": {
+          "Instagram Influencer": 1,
+          "Organic Search": 1
+        },
+        "top_seo_categories": {
+          "Astrology Services": 1,
+          "Home Decor": 1
+        }
+      },
+      "underperforming_with_potential": {
+        "count": 9,
+        "avg_impressions": 42851.11111111111,
+        "avg_roas": 1.149087081196481,
+        "improvement_areas": {
+          "low_ctr": 4,
+          "low_conversion": 4,
+          "poor_retention": 4
+        }
+      },
+      "channel_insights": {
+        "Instagram Influencer": {
+          "best_metric": "roas",
+          "worst_metric": "ctr",
+          "consistency": 12.289352485576563,
+          "scalability": 1.985254581180642
+        },
+        "Organic Search": {
+          "best_metric": "roas",
+          "worst_metric": "ctr",
+          "consistency": 6.967067807160256,
+          "scalability": 1.9120464902823775
+        },
+        "Meta Ads": {
+          "best_metric": "roas",
+          "worst_metric": "ctr",
+          "consistency": 6.473453794297555,
+          "scalability": 2.117113783323105
+        },
+        "Google Ads": {
+          "best_metric": "roas",
+          "worst_metric": "ctr",
+          "consistency": 4.156454946868274,
+          "scalability": 1.3586295700628146
+        }
+      }
+    },
+    "recommendations": [
+      {
+        "type": "budget_optimization",
+        "priority": "high",
+        "title": "Reallocate Budget to High-ROAS Channels",
+        "description": "Move budget from Google Ads (low ROAS) to Instagram Influencer (high ROAS)",
+        "impact_estimate": "potential 20-40% ROAS improvement",
+        "action_items": [
+          "Reduce Google Ads spend by 30%",
+          "Increase Instagram Influencer spend by equivalent amount",
+          "Monitor performance for 2 weeks before further adjustments"
+        ]
+      },
+      {
+        "type": "seo_optimization",
+        "priority": "medium",
+        "title": "Optimize SEO for Supplements Category",
+        "description": "High search volume (43,956) but poor ranking",
+        "impact_estimate": "potential 50-100% organic traffic increase",
+        "action_items": [
+          "Conduct keyword gap analysis",
+          "Optimize on-page content and meta descriptions",
+          "Build high-quality backlinks",
+          "Improve page loading speed"
+        ]
+      },
+      {
+        "type": "campaign_optimization",
+        "priority": "medium",
+        "title": "Optimize Underperforming High-Volume Campaigns",
+        "description": "9 campaigns have high impressions but low ROAS",
+        "impact_estimate": "potential 30-60% ROAS improvement",
+        "action_items": [
+          "Audit ad creative and messaging",
+          "Refine audience targeting",
+          "Test different landing pages",
+          "Optimize bid strategies"
+        ]
+      }
+    ]
+  },
+  "creative_outputs": [
+    {
+      "type": "ad_headlines",
+      "content": "1. **Instagram Influencer**  \n   **Headline:** \u201cTransform Your Routine: Limited-Time 25% Off the Fitness, Glow, & Home You Deserve!\u201d  \n   *Why it works:* Draws on the proven Instagram influencer performance, highlights all three top categories with a transformation promise, and adds urgency with a limited-time discount. This leverages aspirational lifestyle language that performs well on Instagram, driving immediate action with scarcity and a clear value proposition[1][2].\n\n2. **Facebook**  \n   **Headline:** \u201cLast Chance: Revamp Your Home & Self with Our Bestsellers\u2014Sale Ends Tonight!\u201d  \n   *Why it works:* Facebook users respond to time-sensitive offers and direct calls to upgrade their lives. This headline addresses the pain point of wanting quick, noticeable improvements in their home or self, paired with a strong urgency cue and a focus on high-demand products[1][2].\n\n3. **Google Search Ad**  \n   **Headline:** \u201cShop Award-Winning Fitness Gear & Skin Care\u2014Free Shipping, This Week Only!\u201d  \n   *Why it works:* Google\u2019s intent-driven audience wants clear, benefit-led offers. This headline features two top-performing categories, a trust-building \u201caward-winning\u201d claim, and a time-limited free shipping incentive, appealing to deal-seekers and those ready to purchase[1][2][3].\n\n4. **Email Campaign**  \n   **Headline:** \u201cUpgrade Your Space & Self: Exclusive 30% Off Ends in 48 Hours!\u201d  \n   *Why it works:* Email recipients are primed for deeper offers; this headline leverages exclusivity (\u201cExclusive\u201d), urgency (\u201cEnds in 48 Hours\u201d), and a significant discount. It directly targets the core customer desire to improve both their living environment and personal care[1][2].\n\n5. **Pinterest Ad**  \n   **Headline:** \u201cStruggling to Find Stylish Home Decor? See What\u2019s Trending\u2014Hurry, Stock Won\u2019t Last!\u201d  \n   *Why it works:* Pinterest users are actively searching for inspiration and solutions to d\u00e9cor challenges. This headline addresses a common pain point (finding style), offers a solution (\u201cSee What\u2019s Trending\u201d), and creates FOMO with a scarcity message, driving clicks and conversions[1][3].\n\nEach headline is tailored for the channel\u2019s unique audience mindset, addresses value and urgency, and spotlights your top categories and offers, maximizing relevance and performance.",
+      "context": {
+        "best_performing_channel": "Instagram Influencer",
+        "average_roas": 4.34,
+        "top_categories": [
+          "Fitness Gear",
+          "Skin Care",
+          "Home Decor"
+        ],
+        "recommendations": [
+          {
+            "type": "budget_optimization",
+            "priority": "high",
+            "title": "Reallocate Budget to High-ROAS Channels",
+            "description": "Move budget from Google Ads (low ROAS) to Instagram Influencer (high ROAS)",
+            "impact_estimate": "potential 20-40% ROAS improvement",
+            "action_items": [
+              "Reduce Google Ads spend by 30%",
+              "Increase Instagram Influencer spend by equivalent amount",
+              "Monitor performance for 2 weeks before further adjustments"
+            ]
+          }
+        ]
+      },
+      "generated_for": "multiple_channels"
+    },
+    {
+      "type": "seo_meta_descriptions",
+      "content": "SEO meta descriptions for high-opportunity categories generated based on search volume and conversion data.",
+      "target_categories": [
+        "Fitness Gear",
+        "Skin Care",
+        "Home Decor"
+      ]
+    },
+    {
+      "type": "pdp_content",
+      "content": "Product Description Page content optimized for conversion based on top-performing categories and customer behavior patterns.",
+      "target_categories": [
+        "Fitness Gear",
+        "Skin Care",
+        "Home Decor"
+      ]
+    }
+  ]
+}
